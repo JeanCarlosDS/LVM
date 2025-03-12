@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+
+form {
+  max-width: 300px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0 15px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px;
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.result {
+  padding: 10px;
+  border: 1px solid #ddd;
+  max-width: 300px;
+}
